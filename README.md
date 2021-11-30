@@ -63,12 +63,6 @@ For Web: you can close metro bundler not required for web builds
 For Desktop:
 1. `yarn web`
 2. `yarn desktop`
-
-<br/>
-
-## Contributors
-* [Ankit Mishra](https://github.com/alexmishra) (Designer)
-* [Aryan Shridhar](https://github.com/aryanshridhar)
 * [Karl Horky](https://github.com/karlhorky)
 
 Looking to be a part of the team, checkout our contribution guideline [HERE](https://github.com/sarthakpranesh/Covid19-ReactNative/blob/contribution/contributing.md) and get started
